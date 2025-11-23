@@ -1,0 +1,812 @@
+[
+  {
+    "date": "2025-10-25",
+    "channel": "Meta",
+    "spend": 5203,
+    "revenue": 18143,
+    "impressions": 520340,
+    "clicks": 6244,
+    "conversions": 125
+  },
+  {
+    "date": "2025-10-25",
+    "channel": "Google",
+    "spend": 3202,
+    "revenue": 7112,
+    "impressions": 240126,
+    "clicks": 4803,
+    "conversions": 120
+  },
+  {
+    "date": "2025-10-25",
+    "channel": "TikTok",
+    "spend": 2043,
+    "revenue": 4375,
+    "impressions": 408684,
+    "clicks": 4904,
+    "conversions": 49
+  },
+  {
+    "date": "2025-10-26",
+    "channel": "Meta",
+    "spend": 5335,
+    "revenue": 18154,
+    "impressions": 533496,
+    "clicks": 6402,
+    "conversions": 128
+  },
+  {
+    "date": "2025-10-26",
+    "channel": "Google",
+    "spend": 3038,
+    "revenue": 6642,
+    "impressions": 227823,
+    "clicks": 4556,
+    "conversions": 114
+  },
+  {
+    "date": "2025-10-26",
+    "channel": "TikTok",
+    "spend": 2013,
+    "revenue": 4178,
+    "impressions": 402624,
+    "clicks": 4831,
+    "conversions": 48
+  },
+  {
+    "date": "2025-10-27",
+    "channel": "Meta",
+    "spend": 5022,
+    "revenue": 17272,
+    "impressions": 502180,
+    "clicks": 6026,
+    "conversions": 121
+  },
+  {
+    "date": "2025-10-27",
+    "channel": "Google",
+    "spend": 3169,
+    "revenue": 7092,
+    "impressions": 237661,
+    "clicks": 4753,
+    "conversions": 119
+  },
+  {
+    "date": "2025-10-27",
+    "channel": "TikTok",
+    "spend": 2148,
+    "revenue": 4580,
+    "impressions": 429656,
+    "clicks": 5156,
+    "conversions": 52
+  },
+  {
+    "date": "2025-10-28",
+    "channel": "Meta",
+    "spend": 5497,
+    "revenue": 19510,
+    "impressions": 549733,
+    "clicks": 6597,
+    "conversions": 132
+  },
+  {
+    "date": "2025-10-28",
+    "channel": "Google",
+    "spend": 3028,
+    "revenue": 6614,
+    "impressions": 227120,
+    "clicks": 4542,
+    "conversions": 114
+  },
+  {
+    "date": "2025-10-28",
+    "channel": "TikTok",
+    "spend": 2160,
+    "revenue": 4562,
+    "impressions": 432062,
+    "clicks": 5185,
+    "conversions": 52
+  },
+  {
+    "date": "2025-10-29",
+    "channel": "Meta",
+    "spend": 5099,
+    "revenue": 17850,
+    "impressions": 509920,
+    "clicks": 6119,
+    "conversions": 122
+  },
+  {
+    "date": "2025-10-29",
+    "channel": "Google",
+    "spend": 3247,
+    "revenue": 7286,
+    "impressions": 243517,
+    "clicks": 4870,
+    "conversions": 122
+  },
+  {
+    "date": "2025-10-29",
+    "channel": "TikTok",
+    "spend": 2006,
+    "revenue": 4088,
+    "impressions": 401246,
+    "clicks": 4815,
+    "conversions": 48
+  },
+  {
+    "date": "2025-10-30",
+    "channel": "Meta",
+    "spend": 5376,
+    "revenue": 18864,
+    "impressions": 537583,
+    "clicks": 6451,
+    "conversions": 129
+  },
+  {
+    "date": "2025-10-30",
+    "channel": "Google",
+    "spend": 3187,
+    "revenue": 6995,
+    "impressions": 239045,
+    "clicks": 4781,
+    "conversions": 120
+  },
+  {
+    "date": "2025-10-30",
+    "channel": "TikTok",
+    "spend": 2045,
+    "revenue": 4124,
+    "impressions": 408901,
+    "clicks": 4907,
+    "conversions": 49
+  },
+  {
+    "date": "2025-10-31",
+    "channel": "Meta",
+    "spend": 5407,
+    "revenue": 18597,
+    "impressions": 540667,
+    "clicks": 6488,
+    "conversions": 130
+  },
+  {
+    "date": "2025-10-31",
+    "channel": "Google",
+    "spend": 3197,
+    "revenue": 7055,
+    "impressions": 239786,
+    "clicks": 4796,
+    "conversions": 120
+  },
+  {
+    "date": "2025-10-31",
+    "channel": "TikTok",
+    "spend": 2171,
+    "revenue": 4418,
+    "impressions": 434225,
+    "clicks": 5211,
+    "conversions": 52
+  },
+  {
+    "date": "2025-11-01",
+    "channel": "Meta",
+    "spend": 5366,
+    "revenue": 18499,
+    "impressions": 536614,
+    "clicks": 6439,
+    "conversions": 129
+  },
+  {
+    "date": "2025-11-01",
+    "channel": "Google",
+    "spend": 3227,
+    "revenue": 6987,
+    "impressions": 242037,
+    "clicks": 4841,
+    "conversions": 121
+  },
+  {
+    "date": "2025-11-01",
+    "channel": "TikTok",
+    "spend": 2173,
+    "revenue": 4459,
+    "impressions": 434685,
+    "clicks": 5216,
+    "conversions": 52
+  },
+  {
+    "date": "2025-11-02",
+    "channel": "Meta",
+    "spend": 5285,
+    "revenue": 18956,
+    "impressions": 528472,
+    "clicks": 6342,
+    "conversions": 127
+  },
+  {
+    "date": "2025-11-02",
+    "channel": "Google",
+    "spend": 3023,
+    "revenue": 6588,
+    "impressions": 226760,
+    "clicks": 4535,
+    "conversions": 113
+  },
+  {
+    "date": "2025-11-02",
+    "channel": "TikTok",
+    "spend": 2153,
+    "revenue": 4248,
+    "impressions": 430672,
+    "clicks": 5168,
+    "conversions": 52
+  },
+  {
+    "date": "2025-11-03",
+    "channel": "Meta",
+    "spend": 5058,
+    "revenue": 17565,
+    "impressions": 505844,
+    "clicks": 6070,
+    "conversions": 121
+  },
+  {
+    "date": "2025-11-03",
+    "channel": "Google",
+    "spend": 3071,
+    "revenue": 6892,
+    "impressions": 230339,
+    "clicks": 4607,
+    "conversions": 115
+  },
+  {
+    "date": "2025-11-03",
+    "channel": "TikTok",
+    "spend": 2006,
+    "revenue": 4057,
+    "impressions": 401255,
+    "clicks": 4815,
+    "conversions": 48
+  },
+  {
+    "date": "2025-11-04",
+    "channel": "Meta",
+    "spend": 5289,
+    "revenue": 18765,
+    "impressions": 528893,
+    "clicks": 6347,
+    "conversions": 127
+  },
+  {
+    "date": "2025-11-04",
+    "channel": "Google",
+    "spend": 3091,
+    "revenue": 6724,
+    "impressions": 231816,
+    "clicks": 4636,
+    "conversions": 116
+  },
+  {
+    "date": "2025-11-04",
+    "channel": "TikTok",
+    "spend": 2084,
+    "revenue": 4120,
+    "impressions": 416733,
+    "clicks": 5001,
+    "conversions": 50
+  },
+  {
+    "date": "2025-11-05",
+    "channel": "Meta",
+    "spend": 5259,
+    "revenue": 18643,
+    "impressions": 525916,
+    "clicks": 6311,
+    "conversions": 126
+  },
+  {
+    "date": "2025-11-05",
+    "channel": "Google",
+    "spend": 3139,
+    "revenue": 7009,
+    "impressions": 235456,
+    "clicks": 4709,
+    "conversions": 118
+  },
+  {
+    "date": "2025-11-05",
+    "channel": "TikTok",
+    "spend": 2119,
+    "revenue": 4083,
+    "impressions": 423883,
+    "clicks": 5087,
+    "conversions": 51
+  },
+  {
+    "date": "2025-11-06",
+    "channel": "Meta",
+    "spend": 5461,
+    "revenue": 18723,
+    "impressions": 546144,
+    "clicks": 6554,
+    "conversions": 131
+  },
+  {
+    "date": "2025-11-06",
+    "channel": "Google",
+    "spend": 3083,
+    "revenue": 6911,
+    "impressions": 231189,
+    "clicks": 4624,
+    "conversions": 116
+  },
+  {
+    "date": "2025-11-06",
+    "channel": "TikTok",
+    "spend": 2039,
+    "revenue": 4068,
+    "impressions": 407896,
+    "clicks": 4895,
+    "conversions": 49
+  },
+  {
+    "date": "2025-11-07",
+    "channel": "Meta",
+    "spend": 5473,
+    "revenue": 19142,
+    "impressions": 547277,
+    "clicks": 6567,
+    "conversions": 131
+  },
+  {
+    "date": "2025-11-07",
+    "channel": "Google",
+    "spend": 3230,
+    "revenue": 7098,
+    "impressions": 242262,
+    "clicks": 4845,
+    "conversions": 121
+  },
+  {
+    "date": "2025-11-07",
+    "channel": "TikTok",
+    "spend": 2193,
+    "revenue": 4348,
+    "impressions": 438611,
+    "clicks": 5263,
+    "conversions": 53
+  },
+  {
+    "date": "2025-11-08",
+    "channel": "Meta",
+    "spend": 5349,
+    "revenue": 19184,
+    "impressions": 534890,
+    "clicks": 6419,
+    "conversions": 128
+  },
+  {
+    "date": "2025-11-08",
+    "channel": "Google",
+    "spend": 3000,
+    "revenue": 6485,
+    "impressions": 225006,
+    "clicks": 4500,
+    "conversions": 113
+  },
+  {
+    "date": "2025-11-08",
+    "channel": "TikTok",
+    "spend": 2119,
+    "revenue": 4025,
+    "impressions": 423843,
+    "clicks": 5086,
+    "conversions": 51
+  },
+  {
+    "date": "2025-11-09",
+    "channel": "Meta",
+    "spend": 5113,
+    "revenue": 18046,
+    "impressions": 511321,
+    "clicks": 6136,
+    "conversions": 123
+  },
+  {
+    "date": "2025-11-09",
+    "channel": "Google",
+    "spend": 3101,
+    "revenue": 6780,
+    "impressions": 232559,
+    "clicks": 4651,
+    "conversions": 116
+  },
+  {
+    "date": "2025-11-09",
+    "channel": "TikTok",
+    "spend": 2130,
+    "revenue": 4133,
+    "impressions": 425908,
+    "clicks": 5111,
+    "conversions": 51
+  },
+  {
+    "date": "2025-11-10",
+    "channel": "Meta",
+    "spend": 5414,
+    "revenue": 18821,
+    "impressions": 541353,
+    "clicks": 6496,
+    "conversions": 130
+  },
+  {
+    "date": "2025-11-10",
+    "channel": "Google",
+    "spend": 3188,
+    "revenue": 6884,
+    "impressions": 239102,
+    "clicks": 4782,
+    "conversions": 120
+  },
+  {
+    "date": "2025-11-10",
+    "channel": "TikTok",
+    "spend": 2180,
+    "revenue": 4195,
+    "impressions": 435990,
+    "clicks": 5232,
+    "conversions": 52
+  },
+  {
+    "date": "2025-11-11",
+    "channel": "Meta",
+    "spend": 5219,
+    "revenue": 18205,
+    "impressions": 521876,
+    "clicks": 6263,
+    "conversions": 125
+  },
+  {
+    "date": "2025-11-11",
+    "channel": "Google",
+    "spend": 3134,
+    "revenue": 7043,
+    "impressions": 235031,
+    "clicks": 4701,
+    "conversions": 118
+  },
+  {
+    "date": "2025-11-11",
+    "channel": "TikTok",
+    "spend": 2111,
+    "revenue": 3964,
+    "impressions": 422201,
+    "clicks": 5066,
+    "conversions": 51
+  },
+  {
+    "date": "2025-11-12",
+    "channel": "Meta",
+    "spend": 5140,
+    "revenue": 17549,
+    "impressions": 514037,
+    "clicks": 6168,
+    "conversions": 123
+  },
+  {
+    "date": "2025-11-12",
+    "channel": "Google",
+    "spend": 3007,
+    "revenue": 6713,
+    "impressions": 225547,
+    "clicks": 4511,
+    "conversions": 113
+  },
+  {
+    "date": "2025-11-12",
+    "channel": "TikTok",
+    "spend": 2150,
+    "revenue": 3988,
+    "impressions": 429961,
+    "clicks": 5160,
+    "conversions": 52
+  },
+  {
+    "date": "2025-11-13",
+    "channel": "Meta",
+    "spend": 5287,
+    "revenue": 18166,
+    "impressions": 528735,
+    "clicks": 6345,
+    "conversions": 127
+  },
+  {
+    "date": "2025-11-13",
+    "channel": "Google",
+    "spend": 3194,
+    "revenue": 7082,
+    "impressions": 239514,
+    "clicks": 4790,
+    "conversions": 120
+  },
+  {
+    "date": "2025-11-13",
+    "channel": "TikTok",
+    "spend": 2026,
+    "revenue": 3730,
+    "impressions": 405275,
+    "clicks": 4863,
+    "conversions": 49
+  },
+  {
+    "date": "2025-11-14",
+    "channel": "Meta",
+    "spend": 5362,
+    "revenue": 19209,
+    "impressions": 536226,
+    "clicks": 6435,
+    "conversions": 129
+  },
+  {
+    "date": "2025-11-14",
+    "channel": "Google",
+    "spend": 3046,
+    "revenue": 6715,
+    "impressions": 228434,
+    "clicks": 4569,
+    "conversions": 114
+  },
+  {
+    "date": "2025-11-14",
+    "channel": "TikTok",
+    "spend": 2037,
+    "revenue": 3830,
+    "impressions": 407452,
+    "clicks": 4889,
+    "conversions": 49
+  },
+  {
+    "date": "2025-11-15",
+    "channel": "Meta",
+    "spend": 5085,
+    "revenue": 17699,
+    "impressions": 508474,
+    "clicks": 6102,
+    "conversions": 122
+  },
+  {
+    "date": "2025-11-15",
+    "channel": "Google",
+    "spend": 3294,
+    "revenue": 7246,
+    "impressions": 247080,
+    "clicks": 4942,
+    "conversions": 124
+  },
+  {
+    "date": "2025-11-15",
+    "channel": "TikTok",
+    "spend": 2108,
+    "revenue": 3902,
+    "impressions": 421579,
+    "clicks": 5059,
+    "conversions": 51
+  },
+  {
+    "date": "2025-11-16",
+    "channel": "Meta",
+    "spend": 5067,
+    "revenue": 17999,
+    "impressions": 506699,
+    "clicks": 6080,
+    "conversions": 122
+  },
+  {
+    "date": "2025-11-16",
+    "channel": "Google",
+    "spend": 3165,
+    "revenue": 7024,
+    "impressions": 237338,
+    "clicks": 4747,
+    "conversions": 119
+  },
+  {
+    "date": "2025-11-16",
+    "channel": "TikTok",
+    "spend": 2082,
+    "revenue": 3901,
+    "impressions": 416479,
+    "clicks": 4998,
+    "conversions": 50
+  },
+  {
+    "date": "2025-11-17",
+    "channel": "Meta",
+    "spend": 5390,
+    "revenue": 18656,
+    "impressions": 538985,
+    "clicks": 6468,
+    "conversions": 129
+  },
+  {
+    "date": "2025-11-17",
+    "channel": "Google",
+    "spend": 3057,
+    "revenue": 6873,
+    "impressions": 229267,
+    "clicks": 4585,
+    "conversions": 115
+  },
+  {
+    "date": "2025-11-17",
+    "channel": "TikTok",
+    "spend": 2184,
+    "revenue": 3972,
+    "impressions": 436830,
+    "clicks": 5242,
+    "conversions": 52
+  },
+  {
+    "date": "2025-11-18",
+    "channel": "Meta",
+    "spend": 5433,
+    "revenue": 18991,
+    "impressions": 543335,
+    "clicks": 6520,
+    "conversions": 130
+  },
+  {
+    "date": "2025-11-18",
+    "channel": "Google",
+    "spend": 3091,
+    "revenue": 6686,
+    "impressions": 231836,
+    "clicks": 4637,
+    "conversions": 116
+  },
+  {
+    "date": "2025-11-18",
+    "channel": "TikTok",
+    "spend": 2059,
+    "revenue": 3765,
+    "impressions": 411811,
+    "clicks": 4942,
+    "conversions": 49
+  },
+  {
+    "date": "2025-11-19",
+    "channel": "Meta",
+    "spend": 5056,
+    "revenue": 17684,
+    "impressions": 505649,
+    "clicks": 6068,
+    "conversions": 121
+  },
+  {
+    "date": "2025-11-19",
+    "channel": "Google",
+    "spend": 3290,
+    "revenue": 7154,
+    "impressions": 246768,
+    "clicks": 4935,
+    "conversions": 123
+  },
+  {
+    "date": "2025-11-19",
+    "channel": "TikTok",
+    "spend": 2156,
+    "revenue": 3903,
+    "impressions": 431208,
+    "clicks": 5175,
+    "conversions": 52
+  },
+  {
+    "date": "2025-11-20",
+    "channel": "Meta",
+    "spend": 5427,
+    "revenue": 19333,
+    "impressions": 542720,
+    "clicks": 6513,
+    "conversions": 130
+  },
+  {
+    "date": "2025-11-20",
+    "channel": "Google",
+    "spend": 3237,
+    "revenue": 6999,
+    "impressions": 242791,
+    "clicks": 4856,
+    "conversions": 121
+  },
+  {
+    "date": "2025-11-20",
+    "channel": "TikTok",
+    "spend": 2173,
+    "revenue": 3966,
+    "impressions": 434500,
+    "clicks": 5214,
+    "conversions": 52
+  },
+  {
+    "date": "2025-11-21",
+    "channel": "Meta",
+    "spend": 5272,
+    "revenue": 18499,
+    "impressions": 527181,
+    "clicks": 6326,
+    "conversions": 127
+  },
+  {
+    "date": "2025-11-21",
+    "channel": "Google",
+    "spend": 3185,
+    "revenue": 7092,
+    "impressions": 238839,
+    "clicks": 4777,
+    "conversions": 119
+  },
+  {
+    "date": "2025-11-21",
+    "channel": "TikTok",
+    "spend": 2016,
+    "revenue": 3506,
+    "impressions": 403284,
+    "clicks": 4839,
+    "conversions": 48
+  },
+  {
+    "date": "2025-11-22",
+    "channel": "Meta",
+    "spend": 5262,
+    "revenue": 18244,
+    "impressions": 526205,
+    "clicks": 6314,
+    "conversions": 126
+  },
+  {
+    "date": "2025-11-22",
+    "channel": "Google",
+    "spend": 3200,
+    "revenue": 6962,
+    "impressions": 240006,
+    "clicks": 4800,
+    "conversions": 120
+  },
+  {
+    "date": "2025-11-22",
+    "channel": "TikTok",
+    "spend": 2104,
+    "revenue": 3812,
+    "impressions": 420801,
+    "clicks": 5050,
+    "conversions": 50
+  },
+  {
+    "date": "2025-11-23",
+    "channel": "Meta",
+    "spend": 5253,
+    "revenue": 18721,
+    "impressions": 525300,
+    "clicks": 6304,
+    "conversions": 126
+  },
+  {
+    "date": "2025-11-23",
+    "channel": "Google",
+    "spend": 3207,
+    "revenue": 6899,
+    "impressions": 240507,
+    "clicks": 4810,
+    "conversions": 120
+  },
+  {
+    "date": "2025-11-23",
+    "channel": "TikTok",
+    "spend": 2073,
+    "revenue": 3581,
+    "impressions": 414691,
+    "clicks": 4976,
+    "conversions": 50
+  }
+]

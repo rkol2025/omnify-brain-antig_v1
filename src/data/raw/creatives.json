@@ -1,0 +1,44 @@
+[
+  {
+    "id": "CR-META-001",
+    "name": "UGC Video - Before/After Results",
+    "platform": "Meta",
+    "thumbnail_url": "/assets/meta-ugc-001.jpg",
+    "spend": 75000,
+    "impressions": 7500000,
+    "clicks": 90000,
+    "conversions": 1800,
+    "cpa": 41.67,
+    "cvr": 0.02,
+    "roas": 3.5,
+    "launch_date": "2025-10-09"
+  },
+  {
+    "id": "CR-GOOGLE-001",
+    "name": "Responsive Search Ad - Premium Serum",
+    "platform": "Google",
+    "thumbnail_url": "/assets/google-rsa-001.jpg",
+    "spend": 45000,
+    "impressions": 2250000,
+    "clicks": 45000,
+    "conversions": 1125,
+    "cpa": 40,
+    "cvr": 0.025,
+    "roas": 2.2,
+    "launch_date": "2025-09-24"
+  },
+  {
+    "id": "CR-TIKTOK-001",
+    "name": "TikTok Viral Trend - FATIGUED",
+    "platform": "TikTok",
+    "thumbnail_url": "/assets/tiktok-viral-001.jpg",
+    "spend": 30000,
+    "impressions": 6000000,
+    "clicks": 48000,
+    "conversions": 480,
+    "cpa": 62.5,
+    "cvr": 0.01,
+    "roas": 1.9,
+    "launch_date": "2025-08-25"
+  }
+]

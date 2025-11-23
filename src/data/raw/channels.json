@@ -1,0 +1,23 @@
+[
+  {
+    "channel": "Meta",
+    "spend": 150000,
+    "revenue": 525000,
+    "roas": 3.5,
+    "status": "neutral"
+  },
+  {
+    "channel": "Google",
+    "spend": 90000,
+    "revenue": 198000,
+    "roas": 2.2,
+    "status": "neutral"
+  },
+  {
+    "channel": "TikTok",
+    "spend": 60000,
+    "revenue": 114000,
+    "roas": 1.9,
+    "status": "neutral"
+  }
+]

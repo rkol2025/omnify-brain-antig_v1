@@ -1,0 +1,32 @@
+{
+  "channels": [
+    {
+      "channel": "Meta",
+      "roas": 3.5,
+      "spend": 158259,
+      "revenue": 553689,
+      "status": "winner",
+      "ltv_adjusted_roas": 3.08
+    },
+    {
+      "channel": "Google",
+      "roas": 2.2,
+      "spend": 94328,
+      "revenue": 207642,
+      "status": "loser",
+      "ltv_adjusted_roas": 1.94
+    },
+    {
+      "channel": "TikTok",
+      "roas": 1.93,
+      "spend": 63061,
+      "revenue": 121881,
+      "status": "loser",
+      "ltv_adjusted_roas": 1.7
+    }
+  ],
+  "blended_roas": 2.8,
+  "ltv_factor": 0.88,
+  "ltv_adjusted_roas": 2.46,
+  "processing_timestamp": "2025-11-23T18:34:51.296Z"
+}

@@ -1,0 +1,35 @@
+{
+  "actions": [
+    {
+      "priority": 1,
+      "action_type": "increase_budget",
+      "to_channel": "Meta",
+      "increase_percentage": 0.2,
+      "estimated_impact_daily": 2954,
+      "urgency": "MEDIUM",
+      "rationale": "Scale Meta (ROAS 3.5, 25% above blended) while efficiency is high"
+    },
+    {
+      "priority": 2,
+      "action_type": "pause_creative",
+      "creative_id": "CR-TIKTOK-001",
+      "platform": "TikTok",
+      "estimated_impact_total": 1400,
+      "urgency": "MEDIUM",
+      "rationale": "Creative CR-TIKTOK-001 at 70% fatigue risk, predicted 40% drop (cvr_drop, cpa_increase)"
+    },
+    {
+      "priority": 3,
+      "action_type": "shift_budget",
+      "from_channel": "TikTok",
+      "to_channel": "Meta",
+      "shift_percentage": 0.1,
+      "shift_amount_daily": 210,
+      "estimated_impact_daily": 330,
+      "urgency": "MEDIUM",
+      "rationale": "Shift 10% from TikTok (ROAS 1.93) to Meta (ROAS 3.5)"
+    }
+  ],
+  "total_potential_uplift": 4684,
+  "processing_timestamp": "2025-11-23T18:34:51.302Z"
+}

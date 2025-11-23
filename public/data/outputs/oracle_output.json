@@ -1,0 +1,21 @@
+{
+  "fatigue_predictions": [
+    {
+      "creative_id": "CR-TIKTOK-001",
+      "creative_name": "TikTok Viral Trend - FATIGUED",
+      "platform": "TikTok",
+      "fatigue_probability_7d": 0.7,
+      "fatigue_probability_14d": 0.77,
+      "predicted_performance_drop": 0.4,
+      "key_risk_factors": [
+        "cvr_drop",
+        "cpa_increase"
+      ],
+      "recommended_action": "Refresh creative within 1 week"
+    }
+  ],
+  "roi_decay_alerts": [],
+  "ltv_drift_alerts": [],
+  "risk_level": "green",
+  "processing_timestamp": "2025-11-23T18:34:51.300Z"
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "cohort_id": "2025-11",
+    "month": "2025-11",
+    "users": 906,
+    "ltv_30": 50,
+    "ltv_60": 78,
+    "ltv_90": 95,
+    "ltv_current": 112,
+    "cac": 45
+  },
+  {
+    "cohort_id": "2025-10",
+    "month": "2025-10",
+    "users": 861,
+    "ltv_30": 50,
+    "ltv_60": 78,
+    "ltv_90": 95,
+    "ltv_current": 112,
+    "cac": 45
+  },
+  {
+    "cohort_id": "2025-09",
+    "month": "2025-09",
+    "users": 995,
+    "ltv_30": 58,
+    "ltv_60": 90,
+    "ltv_90": 109,
+    "ltv_current": 128,
+    "cac": 45
+  },
+  {
+    "cohort_id": "2025-08",
+    "month": "2025-08",
+    "users": 801,
+    "ltv_30": 58,
+    "ltv_60": 90,
+    "ltv_90": 109,
+    "ltv_current": 128,
+    "cac": 45
+  },
+  {
+    "cohort_id": "2025-07",
+    "month": "2025-07",
+    "users": 957,
+    "ltv_30": 58,
+    "ltv_60": 90,
+    "ltv_90": 109,
+    "ltv_current": 128,
+    "cac": 45
+  },
+  {
+    "cohort_id": "2025-06",
+    "month": "2025-06",
+    "users": 968,
+    "ltv_30": 58,
+    "ltv_60": 90,
+    "ltv_90": 109,
+    "ltv_current": 128,
+    "cac": 45
+  }
+]

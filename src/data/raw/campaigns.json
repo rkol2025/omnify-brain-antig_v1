@@ -1,0 +1,29 @@
+[
+  {
+    "id": "CAM-META-001",
+    "name": "Meta - Prospecting - Lookalike 1%",
+    "channel": "Meta",
+    "status": "active",
+    "spend": 150000,
+    "revenue": 525000,
+    "roas": 3.5
+  },
+  {
+    "id": "CAM-GOOGLE-001",
+    "name": "Google - Search - Brand Keywords",
+    "channel": "Google",
+    "status": "active",
+    "spend": 90000,
+    "revenue": 198000,
+    "roas": 2.2
+  },
+  {
+    "id": "CAM-TIKTOK-001",
+    "name": "TikTok - Prospecting - Broad Targeting",
+    "channel": "TikTok",
+    "status": "active",
+    "spend": 60000,
+    "revenue": 114000,
+    "roas": 1.9
+  }
+]
